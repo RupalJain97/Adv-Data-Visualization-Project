@@ -1,6 +1,6 @@
-# Adv-Data-Visualization-Project
+# ToMCAT-Offline-Viz
 
-CSC 544 Advance Data Visualization - Code - ToMCAT-Offline-Viz
+#### CSC 544 Advance Data Visualization
 
 Authors: Rupal Jain [jainrupal@arizona.edu](mailto:jainrupal@arizona.edu), Caleb Jones Shibu [calebshibu@arizona.edu](mailto:calebshibu@arizona.edu) and Harshita Narnoli [calebshibu@arizona.edu](mailto:harshitanarnoli@arizona.edu)
 
