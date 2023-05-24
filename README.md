@@ -12,6 +12,10 @@ The aims of this research are:
 * Enabling researchers to gain insights by providing a compact approach to visualizing complex data, which includes where team members direct their visual attention and how effective their coordination is by showing the change of trend in physiological data.
 * Aiding the development of effective AI agents for team coordination and global team optimization.
 
+![Diagram 1](Picture1.png)
+
+*Fig. 1*: *ToMCAT-Offline-Viz tool*.
+
 #### Technology
 Programming language: Python 3.9
 Libraries: PyQt, CV2, Pandas, Matplotlib, MNE-Python PyQt5 is a cross-platform GUI toolkit that will help us to develop an interactive desktop application. CV2 is an OpenCV package for Python that serves for image loading, image compression, etc. Pandas will be used to load data from CSV files allowing the working of “relational” or “labeled” data.
