@@ -16,7 +16,7 @@ The aims of this research are:
 
 *Fig. 1*: *ToMCAT-Offline-Viz tool*.
 
-As the project remains within the University, the necessary data to operate the tool has not been revealed.
+Note: As the project remains within the University, the necessary data to operate the tool has not been revealed.
 
 #### Technology
 Programming language: Python 3.9
