@@ -12,7 +12,7 @@ The aims of this research are:
 * Enabling researchers to gain insights by providing a compact approach to visualizing complex data, which includes where team members direct their visual attention and how effective their coordination is by showing the change of trend in physiological data.
 * Aiding the development of effective AI agents for team coordination and global team optimization.
 
-![Diagram 1](Picture.png)
+![Diagram 1](documentations/Picture.png)
 
 *Fig. 1*: *ToMCAT-Offline-Viz tool*.
 
