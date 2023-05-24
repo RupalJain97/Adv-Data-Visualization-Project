@@ -2,4 +2,3 @@ PyQt5
 pandas
 matplotlib
 opencv-python
-pyqtgraph
