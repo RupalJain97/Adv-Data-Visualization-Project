@@ -16,6 +16,8 @@ The aims of this research are:
 
 *Fig. 1*: *ToMCAT-Offline-Viz tool*.
 
+Note: Since the project is internal to the University, data required to function the tool has not been disclosed.
+
 #### Technology
 Programming language: Python 3.9
 Libraries: PyQt, CV2, Pandas, Matplotlib, MNE-Python PyQt5 is a cross-platform GUI toolkit that will help us to develop an interactive desktop application. CV2 is an OpenCV package for Python that serves for image loading, image compression, etc. Pandas will be used to load data from CSV files allowing the working of “relational” or “labeled” data.
